@@ -1,0 +1,15 @@
+.button {
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  font-family: 'Roboto';
+  color: #db1c48;
+  font-weight: 600;
+  margin: 30px;
+}
+
+.active-button {
+  background-color: #db1c48;
+  color: #ffffff;
+}
